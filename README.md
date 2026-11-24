@@ -35,7 +35,7 @@ The chatbot responds to predefined user inputs using conditional logic. It also 
 ```text
 DecodeLabs-Internship-Rule-Based-AI-Chatbot/
 │
-├── screenshots/
+├── screenshot/
 │   └── chatbot_output.png
 │
 ├── main.py
@@ -87,7 +87,7 @@ python main.py
 
 ## 📷 Output
 
-![Chatbot Output](screenshots/chatbot_output.png)
+![Chatbot Output](screenshot/chatbot_output.png)
 
 ---
 
