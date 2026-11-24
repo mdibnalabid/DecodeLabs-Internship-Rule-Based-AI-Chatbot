@@ -50,7 +50,7 @@ DecodeLabs-Internship-Rule-Based-AI-Chatbot/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/md-ibna-labid/DecodeLabs-Internship-Rule-Based-AI-Chatbot.git
+git clone https://github.com/mdibnalabid/DecodeLabs-Internship-Rule-Based-AI-Chatbot.git
 ```
 
 2. Open the project folder
